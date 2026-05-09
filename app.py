@@ -176,3 +176,6 @@ if pdf_docs:
 
         st.write("### Answer")
         st.write(answer)
+
+
+        #streamlit run app.py
