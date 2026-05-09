@@ -152,7 +152,21 @@ Add screenshots of:
 Anuj Chendake
 
 GitHub:
-[https://github.com/anuj-chendake](https://github.com/anuj-chendake)
+[https://github.com/anuj-chendake](https://github.com/anuj-chendake) 
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### PDF Upload
+
+![Upload](screenshots/upload.png)
+
+### Generated Answer
+
+![Answer](screenshots/answer.png)
 
 ---
 
